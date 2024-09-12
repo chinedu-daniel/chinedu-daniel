@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chinedu-daniel
+- 👋 Hi, I’m Chinedu Daniel
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Backend Development with ALX
 - 💞️ I’m looking to collaborate on either frontend and backend project
