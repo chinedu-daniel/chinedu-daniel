@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Chinedu Daniel
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Backend Development with ALX
-- 💞️ I’m looking to collaborate on either frontend and backend project
+- 👀 Certified Full Stack Developer
 - 📫 How to reach me: danielpreciouschinedu@gmail.com
 
 <!---
